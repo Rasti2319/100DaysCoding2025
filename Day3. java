@@ -1,0 +1,8 @@
+public class Main {
+	//Kelas utama bernama HelloWorld
+	public static void main(String[] args) {
+		System.out.println("Hallo Rasti!");
+		//Memunculkan pesan ke layar/menampilkan
+	
+	}
+}
