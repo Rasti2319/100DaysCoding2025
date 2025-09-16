@@ -1,14 +1,12 @@
 public class Main {
 	public static void main(String[] args) {
-		String nama ;
-		int umur ;
-		 
-		 nama = "Rasti Agus" ;
-		 umur  = 19 ;
-		 
-		 System.out.println("Nama awal : " + nama ) ;
-		 System.out.println("Umur awal : " + umur );         System.out.println("Nama update : " + nama ) ;
-         System.out.println("Umur update : " + umur ) ;
-		
+		String nama="Rsti";
+		int umur=18;
+		//menampilkan nilai awal variabel
+		System.out.println("Nilai awal nama:" + nama);
+		System.out.println("Nilai awal umur:" + umur);
+		//menampilkan nilai variabel yang sudah update
+		System.out.println("Nilai update nama:" + nama);
+		System.out.println("Nilai update umur:" + umur);
 	}
 }
