@@ -11,9 +11,9 @@ public class Main {
 		System.out.println("Masukkan tb");
 		int tb = ct.nextInt();
 		 
-		System.out.println("nama");
-		System.out.println("alamat");
-		System.out.println("umur");
-		System.out.println("tb");
+		System.out.println("nama=" + nama);
+		System.out.println("alamat=" + alamat);
+		System.out.println("umur=" + umur);
+		System.out.println("tb=" + tb);
 	}
 }
